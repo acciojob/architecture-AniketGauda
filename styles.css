@@ -1,1 +1,36 @@
 /*  your css code here. If applicable */
+*{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+    
+
+table{
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.main-container{
+    width: 1100px;
+    background-color: slategray;
+}
+    
+
+img{
+    width: 700px;
+    height: 300px;
+}
+
+.col-1,.col-3{
+    width: 300px;
+}
+
+.col-2{
+    width: 600px;
+}
+
+.c1i{
+    width: 300px;
+    height: 300px;
+}
+
